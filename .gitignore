@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Tool output (generated at runtime, shouldn't be committed)
+audit.json
+claims_ledger.json
+verification_report.md
+!examples/demo/claims_ledger.json
+!examples/demo/verification_report.md
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
