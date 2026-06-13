@@ -98,5 +98,5 @@ MIT (see `LICENSE`). Cite the papers above, not this repo, for the underlying me
 ## Author
 
 Built by **Varun Chaturvedi** as a research tooling project — feedback and issues
-welcome. Connect: [LinkedIn](https://linkedin.com/in/your-handle) ·
-[GitHub](https://github.com/your-username)
+welcome. Connect: [LinkedIn](https://linkedin.com/in/varunchaturvedii) ·
+[GitHub](https://github.com/ahoyvarun)
