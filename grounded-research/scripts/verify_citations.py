@@ -32,7 +32,7 @@ import urllib.request
 
 CROSSREF = "https://api.crossref.org/works"
 ARXIV = "http://export.arxiv.org/api/query"
-UA = "grounded-research-citation-auditor/1.0 (https://github.com/your-username/grounded-research)"
+UA = "grounded-research-citation-auditor/1.0 (https://github.com/ahoyvarun/grounded-research)"
 TIMEOUT = 20
 
 
